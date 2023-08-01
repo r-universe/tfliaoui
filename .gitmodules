@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "iIneq"]
-	path = iIneq
-	url = https://github.com/cran/iIneq
 [submodule "ProbMarg"]
 	path = ProbMarg
 	url = https://github.com/cran/ProbMarg
+[submodule "iIneq"]
+	path = iIneq
+	url = https://github.com/cran/iIneq
