@@ -8,3 +8,6 @@
 [submodule "iIneq"]
 	path = iIneq
 	url = https://github.com/cran/iIneq
+[submodule "xtvfreg"]
+	path = xtvfreg
+	url = https://github.com/cran/xtvfreg
